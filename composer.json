@@ -8,7 +8,9 @@
             "email": "Quezler@me.com"
         }
     ],
-    "require": {},
+    "require": {
+        "myclabs/php-enum": "^1.5"
+    },
     "autoload": {
         "psr-4": {
             "Quezler\\MijnIngParticulierApi\\": "src/"
