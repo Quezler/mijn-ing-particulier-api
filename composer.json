@@ -1,0 +1,12 @@
+{
+    "name": "quezler/mijn-ing-particulier-api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick 'Quezler' Mounier",
+            "email": "Quezler@me.com"
+        }
+    ],
+    "require": {}
+}
