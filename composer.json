@@ -8,5 +8,10 @@
             "email": "Quezler@me.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Quezler\\MijnIngParticulierApi\\": "src/"
+        }
+    }
 }
